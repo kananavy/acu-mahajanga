@@ -13,6 +13,7 @@
                178,178,0.45);  
 
 }
+
 .home{
     height: 100vh;
     background: linear-gradient(rgba(33,33,33,
@@ -25,6 +26,9 @@
     justify-content: center;
     margin: auto;
     position: relative;
+
+    
+      
 
     .secContainer{
         .homeText{
@@ -55,7 +59,7 @@
         }
 
         .homeCard{
-            width: 80%;
+            width: 50%;
             border-radius: 1rem;
             padding: 2rem;
             background: var(--whiteColor);
@@ -69,6 +73,25 @@
 
             .locationDiv, .distDiv, .priceDiv{
                 width: 100%;
+
+                .icon{
+                    font-size: 20px;
+                    justify-content: center;
+                    position: absolute;
+                    align-items: center;
+                    top: -50%;
+                    left: 10%;
+                    color: var(--blackColor);
+
+                }
+                .iconDistance{
+                   top: -30%;
+                   left: 10%;
+                   font-size: 20px;
+                   justify-content: center;
+                   position: absolute;
+                   align-items: center;
+                }
 
                 label{
                     display: block;
@@ -98,11 +121,18 @@
                 }
             }
 
-            .btn{
-                width: 100%;
-                padding: .6rem 1.5rem;
-                color: var(--whiteColor);
-                font-weight: 600;
+            .btn1{
+                padding: 0.4rem 1.5rem;
+                // background: var(--PrimaryColor);
+                // background-image: url(../../assets/logo-acumg.png);
+                border: none;
+                object-fit: cover;
+                border-radius: 50%;
+                outline: none;
+                border-radius: 3rem;
+                cursor: pointer;
+                width: 100px;
+                height: 100px;
             }
         }
     }
