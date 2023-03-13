@@ -9,9 +9,9 @@ import {BsArrowRightShort} from 'react-icons/bs'
 
 //Import images to use =========================>
 
-import img from '../../assets/(14).jpg'
-import img2 from '../../assets/(12).jpg'
-import img3 from '../../assets/(11).jpg'
+import img from '../../assets/1674573944logo.jpg'
+import img2 from '../../assets/tsangambato40em.jpg'
+import img3 from '../../assets/tsangafet.jpg'
 import img4 from '../../assets/(10).jpg'
 
 //So guys, here also we are going to use the Map method to display our posts.

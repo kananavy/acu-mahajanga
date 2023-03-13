@@ -51,20 +51,20 @@ const  Datas = [
         location: 'JUDFRA',
         grade: 'Mpitam-bola',
       },
-      {
-        id: 7,
-        imgSrc: img18,
-        destTitle: 'RAVELOARISON Antonio',
-        location: 'FUJM',
-        grade: 'Filoha lefitra',
-      },
-      {
-        id: 8,
-        imgSrc: img19,
-        destTitle: 'GERIANNE',
-        location: 'Ovienda',
-        grade: 'Mpitan-tsoratra',
-      },
+      // {
+      //   id: 7,
+      //   imgSrc: img18,
+      //   destTitle: 'RAVELOARISON Antonio',
+      //   location: 'FUJM',
+      //   grade: 'Filoha lefitra',
+      // },
+      // {
+      //   id: 8,
+      //   imgSrc: img19,
+      //   destTitle: 'GERIANNE',
+      //   location: 'Ovienda',
+      //   grade: 'Mpitan-tsoratra',
+      // },
     
     
 ]

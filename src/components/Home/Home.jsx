@@ -3,6 +3,7 @@ import { useEffect } from 'react'
 import './home.css'
 import './home.scss'
 
+
 import {GoLocation} from 'react-icons/go'
 import {GiAfrica} from 'react-icons/gi'
 import {RiPinDistanceFill} from 'react-icons/ri'
@@ -11,7 +12,14 @@ import {RiPinDistanceFill} from 'react-icons/ri'
 import Aos from 'aos'
 import 'aos/dist/aos.css'
 import img2 from '../../assets/logo.jpg'
-import audio from '../../assets/40emAcumg.mp3'
+
+
+
+ 
+
+
+
+
 function Home() {
   const [count, setCount] = useState(0)
 
@@ -34,9 +42,8 @@ function Home() {
             <p data-aos="fade-up" data-aos-duration="2500" className="subTitle">
           Aumonerie Catholique Universite de Mahajanga
             </p>
-
-            <button data-aos="fade-up" data-aos-duration="3000" className="btn">
-              <a href="http://127.0.0.1:5500/src/components/Home/elio.html">Tsara ho fantatra</a>
+           <button data-aos="fade-up" data-aos-duration="3000" className="btn">
+              <a href="http://127.0.0.1:5500/src/components/data_2/efefe.html">Tsara ho fantatra</a>
             </button>
         </div>
 

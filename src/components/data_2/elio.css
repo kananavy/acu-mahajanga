@@ -1,0 +1,150 @@
+@import url('https://www.maxicours.com/se/wp-content/themes/maxicours/dist/styles/main_a5009fdf.css');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;700&amp;display=swap');
+
+img.wp-smiley,
+img.emoji {
+    display: inline !important;
+    border: none !important;
+    box-shadow: none !important;
+    height: 1em !important;
+    width: 1em !important;
+    margin: 0 0.07em !important;
+    vertical-align: -0.1em !important;
+    background: none !important;
+    padding: 0 !important;
+}
+
+#bgjudfra{
+    background-image: url(../../assets/judfra.jpg);
+}
+#bgfet{
+    background-image: url(../../assets/fet.jpg);
+}
+#bgfujm{
+    background-image: url(../../assets/fujm.jpg);
+}
+#bgjfu{
+    background-image: url(../../assets/jfu.jpg);
+}
+#bgmiec{
+    background-image: url(../../assets/miec.jpg);
+}
+#bgtampikri{
+    background-image: url(../../assets/tampikri.jpg);
+}
+#bgaim{
+    background-image: url(../../assets/aim.jpg);
+}
+#bgfim{
+    background-image: url(../../assets/fim.jpg);
+}
+#bgtmv{
+    background-image: url(../../assets/tmv.jpg);
+}
+
+#bgantoine{
+    background-image: url(../../assets/saint-antoine.jpg);
+}
+#bgsds{
+    background-image: url(../../assets/saint-dominique-savio.jpg);
+}
+#bgbert{
+    background-image: url(../../assets/sain-jacque-bertieu.jpg);
+}
+#bgfrancois{
+    background-image: url(../../assets/saint-francois-dAssise.jpg);
+}
+#bgelisabet{
+    background-image: url(../../assets/sainte-elisabethe.jpg);
+}
+#bgpierre{
+    background-image: url(../../assets/saint-pierre.jpg);
+}
+
+#judfra{
+    background-color: #7e1b15;
+}
+
+#fet{
+    background-color: #0082a5;
+}
+#fujm{
+    background-color: #32835c;
+}
+
+#jfu{
+    background-color: #177e82;
+}
+#miec{
+    background-color: #b50c31;
+}
+
+#tampikri{
+    background-color: #177e82;
+}
+
+#aim{
+    background-color: #366469;
+}
+#fim{
+    background-color: #91372d;
+}
+#tmv{
+    background-color: #32835c;
+}
+
+#antoine{
+    background-color: #c3191d;
+}
+
+#sds{
+    background-color: #ed451d;
+}
+
+#bert{
+    background-color: #f1601d;
+}
+
+#francois{
+    background-color: #622f88;
+}
+
+#elisa{
+    background-color: #b50c31;
+}
+#pierre{
+    background-color: #0c71b5;
+}
+
+.recentcomments a {
+    display: inline !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+@media (max-width: 700px) {
+
+    .responsive-table thead {
+        display: none;
+    }
+
+    .responsive-table tr {
+        display: block;
+        margin-bottom: 40px;
+    }
+
+    .responsive-table td {
+        display: block;
+        text-align: right;
+    }
+
+    .responsive-table td:before {
+        content: attr(data-label);
+        float: left;
+        font-weight: bold;
+    }
+
+    .pb-5 .py-5 {
+        padding-bottom: 0rem !important;
+    }
+
+}
