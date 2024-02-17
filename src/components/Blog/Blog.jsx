@@ -20,19 +20,19 @@ const Posts = [
   {
     id:1,
     postImage: img,
-    title: 'Beautiful Morocco, let us travel!',
-    desc: 'The Kingdon of Morocco is a Muslin is a country in western North Africa, with coastlines on the Atlantic Ocean and Mediterranean Sea'
+    title: 'Famantarana ny ACUMahajanga',
+    desc: 'Ity no famantarana voalohany hoany ACUMahajanga na (Logo ACUMahajanga)'
   },
   {
     id:2,
     postImage: img2,
-    title: 'Romantic moments under Eiffel Tower',
-    desc: 'with vast swaths of desert in its east and the rich Nile River Valley at its heart, is site to one of the worlds earliest and greatest civilizations'
+    title: 'Tsangambato 40taona',
+    desc: 'Famantarana sy tsangambato ny faha 40 taona ny ACUMahajanga'
   },
   {
     id:3,
     postImage: img3,
-    title: 'Let us have an adventure outside Tunisia.',
+    title: 'Tsangambato 20Taona FET',
     desc: ' Tunisia is a small Arab country in North Africa that represent both the aspiration of freedom and struggles against terrorism that roil the region'
   },
   {

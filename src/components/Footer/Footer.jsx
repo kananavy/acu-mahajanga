@@ -6,7 +6,7 @@ import Aos from 'aos'
 import 'aos/dist/aos.css'
 
 
-import {SiYourtraveldottv} from 'react-icons/si'
+import {BiChurch} from 'react-icons/bi'
 import {ImFacebook} from 'react-icons/im'
 import {BsTwitter} from 'react-icons/bs'
 import {AiFillInstagram} from 'react-icons/ai'
@@ -24,8 +24,8 @@ function Footer() {
     <div className="logoDIv"> 
       <div data-aos="fade-up" data-aos-duration="2000" className="footerLogo">
         <a href="#" className="logo flex">
-         <h1 className='flex'><SiYourtraveldottv className="icon"/>
-          Dot</h1>
+         <h1 className='flex'><BiChurch className="icon"/>
+          ACUMg</h1>
         </a>
       </div>
       <div data-aos="fade-up" data-aos-duration="3000" className="socials flex">
